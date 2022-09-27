@@ -12,8 +12,8 @@ the app looks like:
 
 ## learn about:
 
-• How modifiers help you augment your composables. 
-• How standard layout components like Column and LazyRow position child composables. 
-• How alignments and arrangements change the position of child composables in their parent. 
-• How Material composables like Scaffold and Bottom Navigation help you create comprehensive layouts. 
-• How to build flexible composables using slot APIs.
+How modifiers help you augment your composables.
+How standard layout components like Column and LazyRow position child composables. 
+How alignments and arrangements change the position of child composables in their parent. 
+How Material composables like Scaffold and Bottom Navigation help you create comprehensive layouts. 
+How to build flexible composables using slot APIs.
