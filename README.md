@@ -10,10 +10,13 @@ the app looks like:
 <img alt="App image" src="Screenshot/HomeScreen.png" width="30%">
 </div>
 
-## learn about:
+Pre-requisites
+--------------
 
-How modifiers help you augment your composables.
-How standard layout components like Column and LazyRow position child composables. 
-How alignments and arrangements change the position of child composables in their parent. 
-How Material composables like Scaffold and Bottom Navigation help you create comprehensive layouts. 
-How to build flexible composables using slot APIs.
+You need to know:
+
+- How modifiers help you augment your composables.
+- How standard layout components like Column and LazyRow position child composables.
+- How alignments and arrangements change the position of child composables in their parent.-
+- How Material composables like Scaffold and Bottom Navigation help you create comprehensive layouts. 
+- How to build flexible composables using slot APIs.
