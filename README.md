@@ -10,7 +10,7 @@ the app looks like:
 <img alt="App image" src="Screenshot/HomeScreen.png" width="30%">
 </div>
 
-Pre-requisites
+Learnt about
 --------------
 
 You need to know:
