@@ -1,13 +1,16 @@
-# MySoothe App
+## MySoothe App
 
 MySoothe is a well-being app that lists various ways to improve your body and mind. It contains a
 section that lists your favorite collections, and a section with physical exercises. This is what
 the app looks like:
 
-#Screenshot
+## Screenshots
 
+<div style="display:flex;">
+<img alt="App image" src="Screenshot/HomeScreen.png" width="30%">
+</div>
 
-#✅ learn about:
+## learn about:
 
 • How modifiers help you augment your composables. 
 • How standard layout components like Column and LazyRow position child composables. 
